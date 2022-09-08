@@ -1,6 +1,9 @@
 # KH1-Keyblades
 Imports every KH1 keyblade into KH2, reusing KH2's effects.<br/>
 
+Icon by Televo:<br/>
+https://github.com/Televo/kingdom-hearts-recollection
+
 Rumbling Rose    -> Divine Rose<br/>
 Hero's Crest     -> Olympia<br/>
 Mysterious Abyss -> Crabclaw<br/>
@@ -18,3 +21,4 @@ Hidden Dragon    -> Diamond Dust<br/>
 
 KNOWN ISSUES (PC)<br/>
 Photon Debugger has one square hit-effect.
+
